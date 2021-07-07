@@ -34,7 +34,7 @@
 			<scope>test</scope>
 		</dependency>
 
-		<!-- selenium-api -->
+		<!-- selenium-java -->
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-java</artifactId>
